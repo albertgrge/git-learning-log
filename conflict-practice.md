@@ -1,3 +1,4 @@
 # Conflict Practice
+## My Workflow Preferences
 
-This file is for practicing merge conflict resolution.
+- I prefer rebasing feature branches for a clean linear history
